@@ -9,6 +9,6 @@
 ## Screenshot
 
 - Home Screen
-  - <img src="./screenshots/home_screen.png" alt="Home Screen" width="200" height="350">
-  - <img src="./screenshots/generate_dog.png" alt="Generate Dog Screen" width="200" height="350">
-  - <img src="./screenshots/gallery_screen.png" alt="Gallery Screen" width="200" height="350">
+  - <img src="./screenshots/home_screen.png" alt="Home Screen" width="200" height="450">
+  - <img src="./screenshots/generate_dog.png" alt="Generate Dog Screen" width="200" height="450">
+  - <img src="./screenshots/gallery_screen.png" alt="Gallery Screen" width="200" height="450">
