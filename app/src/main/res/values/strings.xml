@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SVG-Task</string>
+    <string name="label_random_dog">Random Dog Generator!</string>
+    <string name="bt_label_recently_generated">My Recently Generated Dogs!</string>
+    <string name="bt_label_generated_dogs">Generate Dogs!</string>
+    <string name="content_attri_dogs">Dog Image</string>
+    <string name="bt_label_clear_dogs">Clear Dogs!</string>
+</resources>
