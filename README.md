@@ -7,6 +7,6 @@
 ## Screenshot
 
 - Home Screen
-  - <img src="/screenshot/home_screen.png" width="100px" height="100px" alt="Home Screen">
-  - <img src="/screenshot/generate_dog.png" width="100px" height="100px" alt="Generate Dog Screen">
-  - <img src="/screenshot/gallery_screen.png" width="100px" height="100px" alt="Gallery Screen">
+  - ![Home Screen](./screenshots/home_screen.png widt =200x350px)
+  - ![Generate Dog Screen](./screenshots/generate_dog.png)
+  - ![Gallery Screen](./screenshots/gallery_screen.png)
