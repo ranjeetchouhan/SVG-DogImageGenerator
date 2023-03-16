@@ -7,6 +7,6 @@
 ## Screenshot
 
 - Home Screen
-  - ![Home Screen](./screenshots/home_screen.png widt =200x350px)
+  - ![Home Screen](./screenshots/home_screen.png)
   - ![Generate Dog Screen](./screenshots/generate_dog.png)
   - ![Gallery Screen](./screenshots/gallery_screen.png)
